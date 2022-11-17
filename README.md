@@ -1,4 +1,4 @@
-- 👋 salam, I’m @Ezi99    
+- 👋 Salam, I’m @Ezi99    
 - 🌱 I’m currently learning computer science
 - 📫 How to reach me ==> ismaeljubranja@mta.ac.il
 

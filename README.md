@@ -1,5 +1,5 @@
 - 👋 Salam, I’m @Ezi99    
-- 🌱 I’m currently learning computer science
+- 🌱 Graduate with a BSc in Computer Science
 - 📫 How to reach me ==> ismaeljubranja@mta.ac.il
 
 <!---
